@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student**  
 💻 **Programming & Web Development** (in continuous learning)  
-📈 Always motivated to improve my skills and build useful projects(beginner).
+📈 Always motivated to improve my skills and build useful projects (beginner).
 
 ---
 
