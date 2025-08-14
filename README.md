@@ -11,3 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-002244?style=for-the-badge&logo=pascal&logoColor=white)
 
+## 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/TON_LEETCODE?theme=dark)](https://leetcode.com/yanniserrour)
+
