@@ -1,4 +1,4 @@
-# Hi, I'm Yanni 👋
+# Hi, I'm Yani 👋
 
 🎓 **Computer Science Student**
 
@@ -9,18 +9,6 @@
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="52" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="52" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="52" />
   </a>
 
   <a href="https://en.cppreference.com/w/c" target="_blank">
