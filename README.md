@@ -13,9 +13,9 @@
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" />
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" />
-  </a>
+ <a href="https://www.oracle.com/database/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" />
+ </a>
 </p>
 
 ### Libraries
@@ -59,8 +59,8 @@
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="52" />
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" />
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" />
   </a>
 
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
