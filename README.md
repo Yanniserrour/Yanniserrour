@@ -12,6 +12,10 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" />
   </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" />
+  </a>
 </p>
 
 ### Languages and Tools
@@ -41,9 +45,6 @@
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="52" />
   </a>
 
-  <a href="https://www.freepascal.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pascal&theme=dark" width="52" />
-  </a>
 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" />
