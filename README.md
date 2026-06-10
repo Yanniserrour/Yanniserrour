@@ -1,18 +1,3 @@
-# Hi, I'm Yani 👋
-
-🎓 **Computer Science Student**
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yanniserrour&label=Profile%20views&color=0e75b6&style=flat" alt="Yanniserrour" />
-</p>
----
-
-### Most used tools
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" />
-  </a>
-</p>
-
 ### Languages and Tools
 
 <p align="left">
@@ -39,6 +24,12 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="52" />
   </a>
-</p>
 
----
+  <a href="https://www.freepascal.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pascal&theme=dark" width="52" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" />
+  </a>
+</p>
