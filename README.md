@@ -5,18 +5,11 @@
 ---
 
 ### Most used tools
-
-<p align="left">
-  <img src="https://profile-counter.glitch.me/big-O/count.svg" alt="Profile Visitors Counter" />
-</p>
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" />
   </a>
 </p>
-
----
 
 ### Languages and Tools
 
