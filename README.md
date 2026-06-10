@@ -7,7 +7,7 @@
 
 ---
 
-### Most used tools
+### Most Used Tools
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" />
@@ -15,6 +15,22 @@
 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" />
+  </a>
+</p>
+
+### Libraries
+
+<p align="left">
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="52" />
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="52" />
+  </a>
+
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="52" />
   </a>
 </p>
 
@@ -45,9 +61,24 @@
     <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="52" />
   </a>
 
-
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" />
+  </a>
+
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" height="52" />
+  </a>
+
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="52" />
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="52" />
+  </a>
+
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="52" />
   </a>
 </p>
 
