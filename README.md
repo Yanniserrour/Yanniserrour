@@ -1,7 +1,9 @@
 # Hi, I'm Yani 👋
 
 🎓 **Computer Science Student**
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Yanniserrour&label=Profile%20views&color=0e75b6&style=flat" alt="Yanniserrour" />
+</p>
 ---
 
 ### Most used tools
