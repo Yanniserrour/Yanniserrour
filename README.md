@@ -20,19 +20,17 @@
 
 ### Libraries
 
-<p align="left">
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="52" />
-  </a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" />
+</a>
 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="52" />
-  </a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" />
+</a>
 
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="52" />
-  </a>
-</p>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="52" />
+</a>
 
 ### Languages and Tools
 
@@ -68,18 +66,5 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" height="52" />
   </a>
-
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="52" />
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="52" />
-  </a>
-
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="52" />
-  </a>
-</p>
-
+  
 ---
